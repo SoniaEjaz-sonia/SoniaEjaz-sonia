@@ -1,3 +1,4 @@
+![logo](https://github.com/SoniaEjaz-sonia/SoniaEjaz-sonia/blob/main/I'm%20Sonia%20Ejaz.png)
 <h1 align="center">Hi 👋, I'm Sonia</h1>
 <h3 align="center">A passionate Software engineer and Flutter developer.</h3>
 
