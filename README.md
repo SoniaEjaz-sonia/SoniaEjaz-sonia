@@ -5,11 +5,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/iamsoniaejaz" target="blank"><img src="https://img.shields.io/twitter/follow/iamsoniaejaz?logo=twitter&style=for-the-badge" alt="iamsoniaejaz" /></a> </p> -->
 
-- 🔭 I’m currently working on [WhatsUp (WhatsApp Clone)](https://github.com/SoniaEjaz-sonia/whats_up_genix)
+<!-- - 🔭 I’m currently working on [WhatsUp (WhatsApp Clone)](https://github.com/SoniaEjaz-sonia/whats_up_genix) -->
+
+- 🔭 I’m currently working on [Flutter maps, directions and locations]
 
 - 🌱 I’m currently learning **Flutter advance topics**
 
-- 🤝 I’m looking for help with **Flutter maps**
+- 🤝 I’m looking for help with **Flutter maps and mapbox**
 
 - 💬 Ask me about **Flutter, dart**
 
