@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniaejaz-sonia&label=Profile%20views&color=0e75b6&style=flat" alt="soniaejaz-sonia" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/iamsoniaejaz" target="blank"><img src="https://img.shields.io/twitter/follow/iamsoniaejaz?logo=twitter&style=for-the-badge" alt="iamsoniaejaz" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/iamsoniaejaz" target="blank"><img src="https://img.shields.io/twitter/follow/iamsoniaejaz?logo=twitter&style=for-the-badge" alt="iamsoniaejaz" /></a> </p> 
 
 <!-- - 🔭 I’m currently working on [WhatsUp (WhatsApp Clone)](https://github.com/SoniaEjaz-sonia/whats_up_genix) -->
 
@@ -15,17 +15,12 @@
 
 - 💬 Ask me about **Flutter, dart**
 
-<!-- - 📫 How to reach me **sejaz2510@gmail.com** -->
+ 📫 How to reach me **sejaz2510@gmail.com** 
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamsoniaejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsoniaejaz" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sonia-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonia-ejaz" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19180122/sonia-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19180122/sonia-ejaz" height="30" width="40" /></a>
-  <a href="https://fb.com/sonia.ejaz.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonia.ejaz.100" height="30" width="40" /></a>
-
-<a href="https://instagram.com/gen_ix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gen_ix_" height="30" width="40" /></a>
-</p> -->
+  <a href="https://linkedin.com/in/sonia-ejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonia-ejaz" height="30" width="40" /></a>  <a href="https://fb.com/sonia.ejaz.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonia.ejaz.100" height="30" width="40" /></a><a href="https://instagram.com/gen_ix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gen_ix_" height="30" width="40" /></a> <a href="https://twitter.com/iamsoniaejaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsoniaejaz" height="30" width="40" /></a>
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
