@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [WhatsUp (WhatsApp Clone)](https://github.com/SoniaEjaz-sonia/whats_up_genix) -->
 
-- 🔭 I’m currently working on [Flutter maps, directions and locations](https://github.com/SoniaEjaz-sonia/order_management_app)
+- 🔭 I’m currently working on [MapBox](https://github.com/SoniaEjaz-sonia/order_management_app) & [Google ML Kit](https://github.com/SoniaEjaz-sonia/super_gallery_updated_new)
 
 - 🌱 I’m currently learning **Flutter advance topics**
 
