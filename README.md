@@ -7,13 +7,13 @@
 
 <!-- - 🔭 I’m currently working on [WhatsUp (WhatsApp Clone)](https://github.com/SoniaEjaz-sonia/whats_up_genix) -->
 
-- 🔭 I’m currently working on [MapBox](https://github.com/SoniaEjaz-sonia/order_management_app) & [Google ML Kit](https://github.com/SoniaEjaz-sonia/super_gallery_updated_new)
+- 🔭 I’m currently working on [MapBox](https://github.com/SoniaEjaz-sonia/order_management_app) , [Google ML Kit](https://github.com/SoniaEjaz-sonia/super_gallery_updated_new)
 
-- 🌱 I’m currently learning **Flutter advance topics**
+- 🌱 I’m currently learning **Image Detection using Google ML Kit**
 
-- 🤝 I’m looking for help with **Flutter maps and mapbox**
+- 🤝 I’m looking for help with **Machine Learning APIs**
 
-- 💬 Ask me about **Flutter, dart**
+- 💬 Ask me about **Anything related to Flutter and Dart**
 
  📫 How to reach me **sejaz2510@gmail.com** 
 
