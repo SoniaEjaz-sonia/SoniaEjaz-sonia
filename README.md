@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [WhatsUp (WhatsApp Clone)](https://github.com/SoniaEjaz-sonia/whats_up_genix) -->
 
-- 🔭 I’m currently working on [MapBox](https://github.com/SoniaEjaz-sonia/order_management_app) , [Google ML Kit](https://github.com/SoniaEjaz-sonia/super_gallery_updated_new)
+- 🔭 I’m currently working on [MapBox](https://github.com/SoniaEjaz-sonia/order_management_app) , [Google ML Kit](https://github.com/SoniaEjaz-sonia/super_gallery_updated_new) , [Syncfucion PDF Flutter] (https://github.com/SoniaEjaz-sonia/capsule_new)
 
 - 🌱 I’m currently learning **Image Detection using Google ML Kit**
 
